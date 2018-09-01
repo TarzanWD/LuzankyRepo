@@ -13,7 +13,7 @@
     9.  Rychlá Express aplikace, vysvětlení GET a POST, Request a Response, Port
     10. Express Router a Middleware, `import`, `export`
     11. MVC - Vysvětlení základů Model-View-Controller, Templating Engine ukázka (Pug)
-    12. Databáze - SQL(MsSQL) a NoSQL(MongoDB), rozdíly, výhody, implementace Monga do serveru
+    12. Databáze - SQL(MySQL) a NoSQL(MongoDB), rozdíly, výhody, implementace Monga do serveru
     13. Nevýhody a výhody server side rendering, přepracování na REST API
     14. Dotazy na Api přes Axios, základ klienta
     15. Základy VueJS - Úvod, alternativy, vysvětlení podstaty JS komponentových frameworků
